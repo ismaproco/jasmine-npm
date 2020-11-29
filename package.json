@@ -32,7 +32,7 @@
     "slash": "^3.0.0"
   },
   "engines": {
-    "node": "^10 || ^12 || ^14"
+    "node": "^10 || ^12 || ^15"
   },
   "eslintConfig": {
     "parserOptions": {
